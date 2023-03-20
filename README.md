@@ -27,9 +27,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖<a name="about-project">Space Travellers Hub</a>
+# 📖<a name="about-project">Sinemafix</a>
 
-> "Space Travellers Hub", is a web application using real live data from the SpaceX API. The website allows users to book rockets and join selected space missions.
+> "Sinemafix", is a web application using real live data from the imdb-API. The website allows users to check severals movies, its description and are also able to sent their preview.
 
 <details>
   <summary>Client</summary>
